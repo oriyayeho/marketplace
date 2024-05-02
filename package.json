@@ -4,7 +4,7 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "hardhat.config.js",
   "dependencies": {
-    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts": "^4.9.6",
     "abab": "^2.0.6",
     "abstract-level": "^1.0.3",
     "accepts": "^1.3.8",
@@ -331,7 +331,6 @@
     "graphemer": "^1.4.0",
     "gzip-size": "^6.0.0",
     "handle-thing": "^2.0.1",
-    "hardhat": "^2.17.3",
     "harmony-reflect": "^1.6.2",
     "has": "^1.0.3",
     "has-bigints": "^1.0.2",
@@ -934,6 +933,7 @@
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.2.3",
     "ethers": "^5.0.0",
+    "hardhat": "^2.22.2",
     "mocha": "^10.2.0"
   },
   "scripts": {

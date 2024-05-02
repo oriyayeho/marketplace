@@ -3,7 +3,14 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { Network, Alchemy } from 'alchemy-sdk';
 
+const settings = {
+    apiKey: "upTjNrajLsVoSpqg4YfrsdqdQAhIZ_xX",
+    network: Network.ETH_SEPOLIA,
+};
+
+const alchemy = new Alchemy(settings);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
