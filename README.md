@@ -8,4 +8,4 @@ Hardhat, a powerful development environment for Ethereum, is employed to streaml
 
 With this project, users can explore the exciting world of NFTs, create and list their unique digital assets, browse and purchase NFTs from other creators, and participate in a thriving digital marketplace powered by blockchain technology.
 
-Oriya, Tzlil, Yarin, Eden 2024
+Oriya, Tzlil, Yarin, Eden 
